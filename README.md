@@ -16,3 +16,5 @@ The ultimate goal is to provide actionable recommendations that will enable the 
 DATA
 
 The data source for this analysis will be pulled from Aviation_Data.csv.The dataset is from the National Transportation Safety Board that includes aviation accident data from 1962 to 2023 about civil aviation accidents and selected incidents in the United States and international waters.
+
+https://public.tableau.com/authoring/PHASE1AVIATIONDATA/AVIATIONBUSINESSANALYSIS#1
